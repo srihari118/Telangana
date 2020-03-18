@@ -2,3 +2,4 @@ Java is an object oriented programming language
 It has high security
 It is platform Independent
 It is more portable in nature
+Using of java programming we can develop mobile applications
